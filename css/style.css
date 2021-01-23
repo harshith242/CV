@@ -1,0 +1,121 @@
+/*body{
+  background-color: #5cdb95;
+  font-family: Tahoma, sans-serif;
+  color: #edf5e1;
+}
+
+hr{
+  background-color: #05386b;
+  border-style: none; /* Applies border style clockwise if multiple values written
+  border-radius: 30%;
+  height: 2px;
+  width: 60%;
+}
+/* For all elements with class heading
+.heading{
+  color: #05386b;
+  font-family: 'Courier New', monospace;
+}
+
+img{
+  width : 30%;
+}
+*/
+body{
+  background-color: #cbf1f5;
+  text-align: center;
+  margin : 0 0 0 0; /* to remove gaps in page */
+  /*font-family: Helvetica, Arial, sans-serif; /* Try Helvetica, then Arial then sans-serif default font.*/
+  font-family: verdana, sans-serif;
+  font-size: 1rem;
+}
+
+h1{
+  /*width: 10%;  So it wont be centered as we changed width */
+  font-size: 4rem;/* 400% of 16 => 64 pixels */
+  font-family: 'Gloria Hallelujah', cursive;
+  margin-bottom: 0;
+}
+
+h2{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2.5rem;
+}
+
+h3{
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #ff9933;
+}
+
+p{
+  /*padding-left: 20%;
+  padding-right: 20%;*/
+  line-height: 2;
+}
+
+a{
+  color: #11999e;
+  padding-right: 1%;
+}
+
+.top{
+  background-color: #f4f5db;/*#71c9ce;*/
+  position: relative;
+  padding-top: 10%;
+  padding-bottom: 0;
+}
+
+.middle{
+  background-color: #cbf1f5;
+}
+
+.bottom{
+  background-color: #a6e3e9;
+  padding-top:2%;
+  padding-bottom: 2%;
+}
+
+.top-cloud{
+  position: relative;
+  left: 20%;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 25%;
+}
+
+.skill-row{
+  margin: 0 auto 0 auto;
+  text-align: left;
+  padding-bottom: 5%;
+  width: 50%;
+}
+
+.project-row{
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.ml-image{
+  float: left;
+  width:25%;
+  height: auto;
+  margin-right: 10%;
+}
+
+.programming-image{
+  float: right;
+  width:25%;
+  height: auto;
+  margin-right: 10%;
+}
+
+.web-image{
+  float: left;
+  width:25%;
+  height: auto;
+  margin-right: 10%;
+}
